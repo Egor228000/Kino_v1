@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kino_v1</string>
+    <string name="bottom_nav_home">Популярное</string>
+    <string name="bottom_nav_search">Фильмы</string>
+    <string name="bottom_nav_popular">Популярное</string>
+    <string name="bottom_nav_films">Фильмы</string>
+    <string name="bottom_nav_kino">Кинотеатры</string>
+    <string name="bottom_nav_ticket">Билеты</string>
+    <string name="bottom_nav_profile">Профиль</string>
+    <string name="title">ddddddddd</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
