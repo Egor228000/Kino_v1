@@ -43,6 +43,11 @@ import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
 
+val jon_vik = ""
+
+
+
+
 @Composable
 fun Films(navController: NavController){
     Column() {
